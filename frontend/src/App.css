@@ -1,0 +1,24 @@
+.off {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+}
+.formfull{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 30%;
+  border: 2px solid rgb(19, 8, 29);
+  padding: 10px;
+  background-color: #0ef;
+
+}
+.headform{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button{
+  width: 40%;
+}
